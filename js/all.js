@@ -12,7 +12,7 @@ function render() {
       html5tr = html5tr + `
         <div class="item">
           <div>
-            <p>${item.time}要${item.content}</p>
+            <p>${item.time} ${item.content}</p>
 						<hr/>
           </div>
         </div>`
